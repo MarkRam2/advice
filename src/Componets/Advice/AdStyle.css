@@ -1,0 +1,74 @@
+.Button{
+    background-color: #53FFAB;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 50%;
+}
+.Button-Hover:hover{
+    background-color: #53FFAB;
+    box-shadow: 0 0 10px #53FFAB;  
+}
+.Button-Active:active{ 
+    background-color: #53FFAB;
+}
+.Text-Green{
+    color: #53FFAB;
+    font-family: Manrope;
+    font-weight: 800;
+    font-size: 28px;
+    margin-top: 10px;
+}
+.Body-center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.Text-LightGrey{
+    color: #CEE2E9;
+    font-family: Manrope;
+    font-weight: 800;
+    font-size: 28px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.Main-Background{
+    background-color: #313A49;
+}
+.Body-Background{
+    background-color: #202632;
+}
+.Box {
+    width: 500px;
+    height: 300px;
+    max-width: 500px;
+    max-height: 300px;
+}
+.Button-Absolute{
+position: absolute;
+top: 276px;
+}
+.Box-Absolute{
+    position: absolute;
+    top: 198.2px;
+}
+.Text-Absolute{
+    position: absolute;
+    top: 70px;
+}
+.Divder-Absolute{
+    position: absolute;
+    top: 220px;
+}
+.Yes {
+    background-color: #202632;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+.Yes2{
+    opacity: 1;
+    height: 49.55rem;
+}
